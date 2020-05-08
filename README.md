@@ -3,7 +3,7 @@
 ### config something
 
 ```
- +) set GOOS=linux //for low capacity disk
+ Step0: set GOOS=linux //for low capacity disk
  Step1: go build -o docker-demo
  Step2: Create Dockerfile
        ```
